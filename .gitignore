@@ -45,3 +45,6 @@ node_modules/
 jspm_packages/
 
 .vscode/
+*.vcxproj
+*.filters
+*.sln
